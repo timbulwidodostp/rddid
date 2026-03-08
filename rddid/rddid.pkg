@@ -1,4 +1,24 @@
-D 'sreweight': Reweights survey variables using external totals Use sreweight With STATA 19
+D 'rddid': Difference-in-Discontinuities Estimation based on rdrobust Use rddid With STATA 19
 D
-F sreweight.ado
-F sreweight.sthlp
+F rdbwselect.ado
+F rdbwselect.sthlp
+F rdbwselect_2014.ado
+F rdbwselect_2014.sthlp
+F rdbwselect_2014_cvplot.mo
+F rdbwselect_2014_kconst.ado
+F rdbwselect_2014_kweight.mo
+F rdbwselect_2014_rdvce.mo
+F rdbwselect_2014_regconst.mo
+F rddid.ado
+F rddid.sthlp
+F rddid_post_bw.ado
+F rddidplot.ado
+F rddidplot.sthlp
+F rdplot.ado
+F rdplot.sthlp
+F rdrobust.ado
+F rdrobust.sthlp
+F rdrobust_bw.mo
+F rdrobust_kweight.mo
+F rdrobust_res.mo
+F rdrobust_vce.mo
