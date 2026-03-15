@@ -1,6 +1,8 @@
 # rddid
 Difference-in-Discontinuities Estimation based on rdrobust Use rddid With STATA 19
 
+https://www.youtube.com/watch?v=F5Pt44BBoJQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
